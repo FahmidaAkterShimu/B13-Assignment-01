@@ -284,11 +284,16 @@ nav .menu a {
     margin-bottom: 40px;
 }
 
+
 .knowledge-content .ul li {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
     color: #001931;
+    text-align: left;
     align-items: center;
     list-style: none;
-    gap: 16px;
+    margin-bottom: 16px;
 }
 
 
